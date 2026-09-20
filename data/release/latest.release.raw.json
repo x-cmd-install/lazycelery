@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4246132,
       "digest": "sha256:6be32b2a6fd92656a6de8cc9ff03e41de61103d084dfed75ebc8455dcab8c09f",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-03-08T16:33:11Z",
       "updated_at": "2026-03-08T16:33:11Z",
       "browser_download_url": "https://github.com/Fguedes90/lazycelery/releases/download/v0.8.3/lazycelery-linux-x86_64.tar.gz"
