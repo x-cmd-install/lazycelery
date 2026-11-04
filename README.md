@@ -48,12 +48,12 @@ Total: **20,555** lines of code across **61** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 3 | 0 | 13 | 1 | 0 | 16 |
-| last720d | 2024-11-13 | 14 | 14 | 13 | 1 | 0 | 107 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 3 | 0 | 13 | 1 | 0 | 16 |
+| last720d | 2024-11-14 | 14 | 14 | 13 | 1 | 0 | 107 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for lazycelery lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:17:09Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:53:34Z._
